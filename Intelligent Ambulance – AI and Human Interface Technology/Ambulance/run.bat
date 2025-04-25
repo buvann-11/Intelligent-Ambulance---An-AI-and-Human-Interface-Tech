@@ -1,0 +1,2 @@
+python Ambulance.py
+pause
