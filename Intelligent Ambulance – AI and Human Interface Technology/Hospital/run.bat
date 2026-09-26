@@ -1,2 +1,0 @@
-python PatientMonitoring.py
-pause
